@@ -34,3 +34,14 @@ La página `productos.html` muestra una lista o catálogo de los productos o ser
 ## Ayuda
 
 La página `productos.html` está diseñada para brindar asistencia a los usuarios que tienen preguntas, problemas o necesitan orientación sobre el uso de tu proyecto. 
+
+## Colaboradores
+
+Este proyecto es posible gracias a:
+
+- [Adonis](https://github.com/AdonisB1219)
+- [Beatriz](https://github.com/btrzosuna)
+- [Carlos](https://github.com/Carramoz)
+- [Diego](https://github.com/diegologuer)
+- [Gabriela](https://github.com/GabyBenton)
+- [Julieta](https://github.com/julietavg)
