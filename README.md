@@ -1,4 +1,4 @@
-# CH20_Colaborar
+# CH29_Colaborar
 
 Ejercicio colaborativo en Github para CH29
 
